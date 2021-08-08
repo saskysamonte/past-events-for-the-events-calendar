@@ -19,7 +19,7 @@ function ssky_get_past_events($per_page, $archive = false) {
     
     ?>
     <div class="ssky-custom-events">
-        <div class="ssasky-custom-events__title-bar">
+        <div class="ssky-custom-events__title-bar">
             <h1>Past Events</h1>
         </div>
     
@@ -83,7 +83,7 @@ function ssky_get_past_events_grid_layout($per_page, $archive = false) {
     ) );
     
     ?>
-    <div class="sasky-custom-events-grid-layout">
+    <div class="ssky-custom-events-grid-layout">
         <div class="event-headings">
             <h2 class="h2-events">Past Events/</h2>
             <p class="view-all-events"><a href="<?= site_url() ?>/past-events/">View all Past Events</a></p>
