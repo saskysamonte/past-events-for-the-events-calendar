@@ -2,6 +2,6 @@
 /*
 * Custom Past Events
 * @author: Sasky
-* @url: iclickmedia.com.sg
+* @url: https://github.com/saskysamonte/past-events-for-the-events-calendar/
 * @version: 1.1.0
 */
