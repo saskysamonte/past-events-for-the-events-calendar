@@ -1,0 +1,100 @@
+
+/**
+ * Stylesheet for Custom Past Events
+ * @author: Sasky
+ * @url: https://github.com/saskysamonte/past-events-for-the-events-calendar/
+ * @version: 1.0.0
+*/
+
+ 
+ .ssky-custom-events {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.ssky-custom-events .ssky-custom-events__title-bar h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #727475;
+    margin-bottom: .5em;
+    position: relative;
+    text-align: center;
+    line-height: 30px;
+}
+.ssky-custom-events .ssky-custom-events__list {
+    margin: 20px 0px;
+    display: inline-block;
+}
+.ssky-custom-events .ssky-custom-events__title {
+    border: none;
+    display: inline-block;
+    letter-spacing: 0;
+    line-height: 1.4em;
+    margin: 0;
+    padding: 0;
+    text-transform: none;
+}
+
+.ssky-custom-events .ssky-custom-events__title a {
+    font-size: 1.6em;
+    color: #141827;
+    letter-spacing: 0;
+    line-height: 1.4em;
+    text-transform: none;
+}
+
+.ssky-custom-events .ssky-custom-events__datetime span {
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.ssky-custom-events .ssky-custom-events__image {
+    margin: 0 3% 0 0;
+    width: 30%;
+    display: inline-block;
+}
+
+.ssky-custom-events .ssky-custom-events__image img {
+    height: auto;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.ssky-custom-events .ssky-custom-events__summary-content {
+    display: block;
+    float: none;
+    width: 100%;
+    padding: 0 5% 0 0;
+}
+
+.ssky-custom-events .ssky-custom-events__summary-content p {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    color: #a3a3a3;
+    line-height: 1.7;
+    margin: 0 0 10px;
+}
+
+.ssky-custom-events .ssky-custom-events__summary-content a.ssky-custom-events__readmore {
+    color: #141827;
+}
+
+.ssky-custom-events .ssky-custom-events__past-btn {
+    text-align: center;
+}
+
+.ssky-custom-events .ssky-custom-events__past-btn a {
+    background-color: #727475;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    line-height: 13px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+        
